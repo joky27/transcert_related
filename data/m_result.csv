@@ -1,0 +1,7123 @@
+CA,openssl_acc,openssl_reason,polarssl_acc,polarssl_reason,gnutls_acc,gnutls_reason,matrix_acc,matrix_reason,cons
+103.14.245.12,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+103.243.34.100,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+103.6.117.3,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+103.6.182.20,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+106.120.151.163,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+107.162.132.18,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+107.20.149.245,F," 18 at 0 depth lookup:self signed certificate
+
+",F," parsing errors
+parsing errors
+
+",F," unavaliable issuer data
+
+",F," distinguished name match
+
+",1
+107.20.160.98,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+107.20.222.205,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+107.20.233.245,F," 18 at 0 depth lookup:self signed certificate
+
+",F," parsing errors
+parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+107.21.206.15,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+107.21.208.133,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+107.21.253.236,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+107.22.185.97,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+107.22.192.88,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+107.22.196.29,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+107.23.149.49,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+107.23.239.20,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+107.23.7.117,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+107.6.92.141,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," parsing errors
+
+",1
+108.160.166.62,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+108.166.31.242,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," parsing errors
+
+",1
+108.168.157.82,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+108.168.160.69,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+108.168.208.206,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+108.168.209.242,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+108.168.254.43,F," 18 at 0 depth lookup:self signed certificate
+
+",F," parsing errors
+parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+108.171.164.204,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+109.163.226.148,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+109.233.157.1,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+110.45.229.152,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+110.75.80.57,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+111.30.131.20,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+113.196.42.30,F," 18 at 0 depth lookup:self signed certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+113.23.145.220,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+114.31.104.56,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+117.79.157.225,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+119.161.212.87,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+119.226.139.40,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+12.129.242.30,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+12.169.195.150,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+12.175.178.118,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+120.138.69.70,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+123.125.116.19,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+123.176.40.18,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+123.58.180.7,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+124.153.64.100,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+124.153.70.108,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+124.153.79.179,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+125.21.240.13,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+129.42.38.1,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+132.248.10.44,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+137.117.90.63,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+137.117.99.85,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+137.135.129.175,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+137.135.43.248,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+137.188.80.90,F," 18 at 0 depth lookup:self signed certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+137.254.120.50,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+137.254.60.6,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+140.168.129.72,F," 18 at 0 depth lookup:self signed certificate
+
+",F," parsing errors
+parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+140.211.10.16,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+140.211.11.131,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+141.101.112.16,T,None,T,None,T,None,T,None,1
+141.101.112.227,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+141.101.112.56,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+141.101.113.240,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+141.101.114.26,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+141.101.114.6,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+141.101.123.113,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+141.101.123.93,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+141.101.127.158,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",T,None,F," The certificate issuer is unknown
+unknown reason
+
+",F," Auth Key / Subject Key Match
+
+",0
+141.101.127.161,T,None,F," parsing errors
+parsing errors
+
+",T,None,T,None,0
+141.138.130.12,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+143.166.83.38,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+144.160.36.42,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+144.63.250.10,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+146.185.29.13,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+147.243.14.149,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+147.67.119.2,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+148.173.97.4,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+148.251.10.7,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+148.251.17.140,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+15.192.124.145,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+153.2.224.50,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+154.46.193.5,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+154.53.224.142,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+155.199.148.111,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+157.56.243.11,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," not CA
+violating constraints
+unknown reason
+
+",F," basic constraints
+
+",1
+158.127.30.5,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+159.153.236.12,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+159.33.3.85,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," parsing errors
+
+",1
+159.45.2.67,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+159.53.84.126,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+160.58.148.2,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+161.150.139.129,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+161.170.248.20,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+161.69.29.243,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+162.159.241.244,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," Auth Key / Subject Key Match
+
+",1
+162.159.243.219,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+162.159.243.249,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+162.159.243.37,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+162.159.247.38,T,None,T,None,T,None,T,None,1
+162.159.249.124,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+162.159.251.173,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+162.159.252.131,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+162.159.253.98,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+162.159.254.156,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," not CA
+violating constraints
+unknown reason
+
+",F," basic constraints
+
+",1
+162.159.254.218,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+162.159.254.86,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," not CA
+violating constraints
+unknown reason
+
+",F," basic constraints
+
+",1
+162.159.255.32,T,None,T,None,T,None,T,None,1
+162.159.255.83,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+162.210.48.97,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+162.242.214.90,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+164.138.216.59,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+166.78.85.179,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+167.187.200.23,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+168.62.43.5,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+17.172.224.47,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+170.135.184.252,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+170.146.234.214,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+170.149.172.130,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+170.167.8.1,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+170.37.25.140,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+171.161.148.150,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+171.20.33.100,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+171.67.215.200,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+173.192.210.69,F," unexpected reason
+
+",F," parsing errors
+
+",F," not CA
+violating constraints
+unknown reason
+
+",F," basic constraints
+
+",1
+173.205.185.92,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+173.226.180.136,F," 18 at 0 depth lookup:self signed certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+173.236.110.98,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+173.241.154.10,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+173.252.110.27,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+174.129.202.202,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+174.129.235.52,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+174.129.31.99,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+174.142.185.70,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+174.143.228.153,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+174.36.111.188,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+174.36.202.235,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+174.36.232.136,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+174.36.28.11,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+176.32.108.186,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+176.74.168.55,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+178.124.133.66,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+178.18.205.254,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+178.21.158.73,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," not CA
+violating constraints
+unknown reason
+
+",F," basic constraints
+
+",1
+178.236.5.122,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+178.236.6.250,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+178.236.7.146,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," not CA
+violating constraints
+unknown reason
+
+",F," basic constraints
+
+",1
+178.236.7.18,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+178.236.7.217,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+178.236.7.228,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+178.249.136.150,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+178.250.0.87,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+178.63.76.197,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+180.153.252.43,F," 18 at 0 depth lookup:self signed certificate
+
+",F," parsing errors
+parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+180.179.112.50,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+180.179.117.126,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+180.179.158.243,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+180.179.160.207,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+180.179.168.163,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+180.233.142.60,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+180.235.96.192,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+181.224.128.30,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+184.106.146.102,T,None,T,None,T,None,T,None,1
+184.154.76.140,F," 18 at 0 depth lookup:self signed certificate
+
+",F," parsing errors
+parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+184.172.3.199,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+184.172.46.4,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+184.173.147.38,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+184.173.188.104,F," 18 at 0 depth lookup:self signed certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+184.31.148.218,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+184.72.63.217,F," 18 at 0 depth lookup:self signed certificate
+
+",F," parsing errors
+parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+184.73.227.209,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+184.73.240.63,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+184.85.107.210,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+184.85.109.41,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+184.85.111.170,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+184.85.96.45,F," unexpected reason
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," Auth Key / Subject Key Match
+
+",1
+185.12.126.207,T,None,T,None,T,None,F," parsing errors
+
+",0
+185.13.208.22,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+185.15.210.21,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+185.5.72.32,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+185.6.168.66,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+187.17.75.152,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+187.84.96.197,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+188.40.136.83,F," 18 at 0 depth lookup:self signed certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+188.72.80.11,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+188.92.145.78,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+188.94.26.4,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," not CA
+violating constraints
+unknown reason
+
+",F," basic constraints
+
+",1
+190.93.240.103,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+190.93.240.65,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+190.93.241.123,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+190.93.241.126,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+190.93.241.200,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+190.93.242.181,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+190.93.242.45,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+190.93.242.64,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+190.93.245.104,T,None,F," parsing errors
+parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",0
+190.93.247.105,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+190.93.247.34,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+190.93.247.69,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+190.93.252.50,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+190.93.252.98,T,None,T,None,T,None,F," parsing errors
+
+",0
+190.93.254.124,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+192.0.80.242,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+192.0.82.250,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+192.115.80.66,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+192.145.237.216,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+192.150.16.117,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+192.16.71.171,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+192.193.219.58,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+192.193.8.101,F," 18 at 0 depth lookup:self signed certificate
+
+",F," parsing errors
+parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+192.193.97.10,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+192.211.12.20,T,None,T,None,T,None,T,None,1
+192.30.252.131,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",T,None,F," The certificate issuer is unknown
+unknown reason
+
+",F," Auth Key / Subject Key Match
+
+",0
+192.69.184.97,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+192.69.192.210,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+193.0.170.35,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+193.113.9.164,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," not CA
+violating constraints
+unknown reason
+
+",F," basic constraints
+
+",1
+193.164.220.226,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+193.169.189.220,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+193.200.227.13,F," unexpected reason
+
+",F," parsing errors
+
+",F," not CA
+unknown reason
+
+",F," parsing errors
+
+",1
+193.227.146.12,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+193.235.232.89,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+193.252.242.125,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+193.28.225.200,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+193.36.45.139,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+193.99.144.80,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+194.0.59.30,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+parsing errors
+
+",F," unavaliable issuer data
+
+",F," distinguished name match
+
+",1
+194.186.179.68,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+194.28.158.205,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+194.54.14.129,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+194.71.107.27,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+194.85.61.42,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+195.122.153.188,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+195.154.120.129,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+195.16.117.227,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+195.200.101.3,F," unexpected reason
+
+",F," self-signed or not signed by a trusted CA
+
+",F," not CA
+unknown reason
+
+",F," parsing errors
+
+",1
+195.211.221.116,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+195.218.200.205,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+195.225.138.206,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+195.24.232.203,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+195.50.176.88,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+195.78.85.102,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+195.8.215.137,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+195.88.55.16,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+198.104.130.1,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+198.104.139.172,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+198.151.60.100,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+198.185.159.195,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," Auth Key / Subject Key Match
+
+",1
+198.252.206.140,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+198.252.206.24,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+198.41.176.65,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+198.41.184.132,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+198.41.184.173,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+198.41.185.175,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+198.41.186.34,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," not CA
+violating constraints
+unknown reason
+
+",F," basic constraints
+
+",1
+198.41.186.93,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+198.41.187.113,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+198.41.189.40,F," unexpected reason
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+198.41.191.67,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+198.41.208.155,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+198.41.212.157,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+198.41.249.113,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," parsing errors
+
+",1
+198.41.249.236,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+198.50.208.20,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+198.51.132.60,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," not CA
+violating constraints
+unknown reason
+
+",F," basic constraints
+
+",1
+198.58.119.75,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+198.58.123.32,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+198.58.91.144,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+198.81.200.2,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+199.102.233.31,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+199.102.234.31,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+199.116.251.126,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+199.15.160.100,F," 18 at 0 depth lookup:self signed certificate
+
+",F," parsing errors
+parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+199.182.122.98,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+199.182.216.166,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+199.182.48.98,F," 18 at 0 depth lookup:self signed certificate
+
+",F," parsing errors
+parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+199.204.31.83,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+199.21.148.21,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," not CA
+violating constraints
+unknown reason
+
+",F," basic constraints
+
+",1
+199.241.235.201,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+199.27.76.154,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+199.27.77.129,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+199.27.77.153,F," unexpected reason
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+199.27.79.129,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+199.27.79.192,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+199.27.79.194,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+199.30.228.77,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+199.30.80.32,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+199.59.148.10,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+199.59.148.12,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+199.59.161.100,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+199.59.161.48,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+199.66.238.211,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+199.81.218.155,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+199.83.131.36,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+199.83.132.4,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+199.91.50.125,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+200.177.229.204,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+200.201.166.106,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+200.252.60.80,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+200.41.9.39,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+200.42.136.212,F," 18 at 0 depth lookup:self signed certificate
+
+",F," parsing errors
+parsing errors
+
+",F," unavaliable issuer data
+
+",F," distinguished name match
+
+",1
+200.42.93.137,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+201.212.0.13,T,None,T,None,T,None,F," parsing errors
+
+",0
+202.108.14.55,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+202.154.164.95,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+202.93.154.28,F," 18 at 0 depth lookup:self signed certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," parsing errors
+
+",1
+203.133.238.164,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+203.17.253.19,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+203.190.242.69,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+203.27.235.60,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+203.81.17.130,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," parsing errors
+
+",1
+204.11.109.133,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+204.14.234.33,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+204.154.94.73,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+204.187.14.69,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+204.194.222.28,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+204.227.127.201,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+204.236.133.199,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+204.51.171.72,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+204.62.114.180,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," parsing errors
+
+",1
+204.76.212.147,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+204.77.213.189,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+204.78.50.82,T,None,T,None,T,None,T,None,1
+204.79.197.200,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+204.9.178.11,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+205.174.16.50,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+205.178.187.13,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+205.186.187.178,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+205.188.95.51,T,None,T,None,T,None,F," parsing errors
+
+",0
+205.196.120.13,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+205.201.132.96,F," unexpected reason
+
+",F," self-signed or not signed by a trusted CA
+
+",F," not CA
+unknown reason
+
+",F," basic constraints
+
+",1
+205.203.132.65,F," unexpected reason
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," Auth Key / Subject Key Match
+
+",1
+205.203.139.53,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+205.251.242.58,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+206.108.40.108,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+206.112.186.66,F," unexpected reason
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+206.131.180.21,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+206.132.6.134,T,None,T,None,T,None,T,None,1
+206.191.131.221,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+206.207.84.93,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+206.29.177.10,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+206.46.232.39,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+207.11.41.19,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+207.171.3.200,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+207.198.114.125,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+207.198.119.75,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+207.223.6.20,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+207.241.224.2,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+207.46.1.137,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+208.184.81.150,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+208.40.245.50,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+208.43.68.142,F," 18 at 0 depth lookup:self signed certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+208.49.103.202,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+208.64.202.68,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," not CA
+violating constraints
+unknown reason
+
+",F," basic constraints
+
+",1
+208.65.75.22,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+208.69.152.108,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+208.74.125.13,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+208.75.122.14,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+208.79.232.91,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+208.79.253.218,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+208.80.154.224,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+208.80.48.112,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+208.80.6.139,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+208.82.16.81,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+208.82.238.129,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+208.83.241.15,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+208.83.243.215,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+208.84.244.116,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+208.85.40.20,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+208.88.180.72,F," 18 at 0 depth lookup:self signed certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," parsing errors
+
+",1
+208.88.80.50,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+208.91.243.8,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+208.93.0.128,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+208.93.170.106,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+208.94.0.193,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+208.94.153.100,F," 18 at 0 depth lookup:self signed certificate
+
+",F," parsing errors
+parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+209.104.45.32,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+209.104.5.235,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," parsing errors
+
+",1
+209.15.211.168,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+209.17.119.201,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+209.190.35.136,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+209.200.154.50,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," not CA
+violating constraints
+unknown reason
+
+",F," basic constraints
+
+",1
+209.202.142.11,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," not CA
+violating constraints
+unknown reason
+
+",F," basic constraints
+
+",1
+209.207.213.228,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+209.237.233.38,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+209.251.59.181,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+209.99.17.252,T,None,F," parsing errors
+parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",0
+210.131.4.217,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+210.132.71.10,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+210.139.248.1,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+210.154.149.63,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+210.157.19.63,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+210.168.27.16,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+210.189.86.12,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+210.210.18.53,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+210.210.24.66,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+210.61.56.39,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+211.147.4.31,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+212.100.239.219,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+212.101.122.34,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+212.227.17.105,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+212.227.222.9,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+212.23.167.62,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+212.24.43.44,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+212.27.48.10,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",T,None,F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",0
+212.31.252.70,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+212.58.246.103,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+212.74.41.154,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+212.95.67.222,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+213.13.146.140,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+213.161.77.102,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+213.165.66.221,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+213.174.132.123,F," 18 at 0 depth lookup:self signed certificate
+
+",F," parsing errors
+parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+213.174.154.204,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+213.174.196.170,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+213.180.141.140,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+213.180.193.105,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+213.180.193.11,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+213.180.204.11,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+213.180.204.224,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+213.180.204.62,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",T,None,F," The certificate issuer is unknown
+unknown reason
+
+",F," Auth Key / Subject Key Match
+
+",0
+213.186.33.34,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+213.52.252.59,T,None,T,None,T,None,T,None,1
+213.52.252.82,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+213.86.246.10,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+213.95.206.42,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+216.115.208.197,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+216.115.210.206,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+216.12.145.20,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+216.12.148.77,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+216.127.49.176,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+216.136.229.72,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+216.137.37.27,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+216.148.239.50,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+216.151.210.124,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+216.176.177.72,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+216.178.160.43,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+216.178.46.224,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+216.194.166.230,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+216.211.130.168,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+216.220.38.23,F," unexpected reason
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+216.229.2.148,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+216.248.207.17,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+216.251.120.22,T,None,T,None,T,None,T,None,1
+216.251.127.130,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+216.33.196.78,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+216.33.197.84,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+216.33.197.90,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+216.34.181.60,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+216.35.221.76,T,None,T,None,T,None,T,None,1
+216.38.220.19,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+216.52.242.86,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+216.58.242.35,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+216.69.227.70,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+216.70.88.177,F," unexpected reason
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+216.74.34.10,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+216.74.40.32,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+216.9.35.59,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+217.107.214.2,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+217.109.56.160,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+217.110.110.251,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+217.117.65.247,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+217.148.71.165,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+217.197.124.53,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+217.20.147.94,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+217.218.165.233,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+217.68.217.20,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+217.69.135.29,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+217.74.65.23,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+218.92.221.83,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+219.122.3.35,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+219.85.79.131,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+222.73.165.245,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+223.165.30.26,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+223.202.34.60,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+23.192.123.170,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+23.193.32.161,F," unexpected reason
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," Auth Key / Subject Key Match
+
+",1
+23.193.38.27,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",T,None,F," The certificate issuer is unknown
+unknown reason
+
+",F," Auth Key / Subject Key Match
+
+",0
+23.193.39.37,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+23.21.205.27,F," 18 at 0 depth lookup:self signed certificate
+
+",F," parsing errors
+parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+23.23.233.203,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+23.23.73.151,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+23.253.11.103,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+23.40.198.151,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+23.45.87.74,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+23.7.194.41,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+23.7.195.136,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+23.7.198.140,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+23.7.199.176,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+23.7.200.141,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+23.7.204.215,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+31.192.116.24,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+31.192.117.132,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+31.222.72.34,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+31.7.63.170,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+37.110.197.226,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+37.187.134.184,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+37.221.160.85,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+37.58.73.60,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+38.102.136.104,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+38.102.159.1,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+38.106.64.123,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+38.74.1.42,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+38.97.225.184,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+4.34.200.211,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," Auth Key / Subject Key Match
+
+",1
+4.71.33.181,F," unexpected reason
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+42.121.252.58,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+46.105.50.248,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+46.137.111.22,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+46.137.88.155,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+46.163.100.220,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+46.229.145.1,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+46.229.161.131,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+46.23.68.237,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+46.245.199.20,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+46.41.129.5,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+5.10.83.6,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+5.135.141.211,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+5.226.176.16,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+5.255.154.67,T,None,T,None,T,None,T,None,1
+5.57.16.220,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+50.112.160.88,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+50.116.56.211,F," 18 at 0 depth lookup:self signed certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+50.16.215.64,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+50.16.224.237,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+50.16.229.208,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+50.17.200.233,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+50.17.200.27,F," unexpected reason
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+50.18.155.198,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+50.18.192.250,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+50.18.252.211,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+50.19.102.214,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+50.204.7.40,T,None,T,None,T,None,T,None,1
+50.22.235.242,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+50.23.155.146,T,None,T,None,T,None,T,None,1
+50.23.192.92,F," unexpected reason
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+50.23.69.98,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+50.31.151.33,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+50.57.17.148,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+50.57.205.55,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+50.57.210.186,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+50.97.140.66,F," unexpected reason
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+50.97.32.133,F," unexpected reason
+
+",F," self-signed or not signed by a trusted CA
+
+",F," not CA
+unknown reason
+
+",F," parsing errors
+
+",1
+50.97.32.134,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+54.194.118.108,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+54.201.88.108,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+54.204.241.146,F," 18 at 0 depth lookup:self signed certificate
+
+",F," parsing errors
+parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+54.209.206.189,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+54.221.192.241,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+54.221.227.193,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+54.225.125.247,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+54.225.139.135,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+54.225.143.137,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+54.225.185.132,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+54.225.201.210,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," parsing errors
+
+",1
+54.225.209.204,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+54.225.67.222,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+54.229.95.25,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+54.235.119.17,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+54.236.120.224,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+54.236.141.100,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+54.236.192.35,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+54.236.2.153,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+54.236.238.247,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+54.240.252.0,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+54.245.255.48,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+54.250.131.99,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+54.83.37.158,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+54.83.37.163,T,None,T,None,T,None,T,None,1
+54.84.216.68,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+56.0.134.100,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+58.83.142.136,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+59.106.194.19,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+59.106.98.139,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+59.151.103.12,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+59.32.213.232,F," 18 at 0 depth lookup:self signed certificate
+
+",F," parsing errors
+parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+60.199.217.26,T,None,T,None,T,None,F," parsing errors
+
+",0
+60.199.244.6,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+60.247.99.47,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+61.135.189.35,F," 18 at 0 depth lookup:self signed certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+61.135.218.26,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+62.128.56.34,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+62.138.108.130,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+62.138.116.3,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+62.149.188.154,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+62.212.83.1,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+62.213.85.4,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+62.216.176.6,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+62.73.129.180,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+63.111.3.133,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+63.228.223.103,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+63.240.4.179,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+63.245.215.20,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+63.73.199.22,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+64.111.214.2,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+64.12.249.149,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+64.124.231.250,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+64.124.61.10,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+64.135.77.80,F," 18 at 0 depth lookup:self signed certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+64.14.48.177,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+64.147.131.201,T,None,T,None,T,None,T,None,1
+64.156.167.84,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+64.156.167.85,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+64.188.53.92,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+64.188.56.186,T,None,T,None,T,None,T,None,1
+64.225.155.21,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+64.235.44.99,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+64.26.251.145,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+64.27.101.155,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+64.30.228.50,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+64.30.234.74,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+64.38.20.21,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+64.41.140.207,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+64.41.197.44,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+64.6.21.5,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," parsing errors
+
+",1
+64.62.243.91,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+64.77.110.136,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+64.94.118.77,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+64.94.47.199,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+65.172.31.27,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+65.173.211.241,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+65.19.138.1,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+65.213.146.70,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+65.254.244.120,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+65.39.148.34,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+65.50.203.210,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+65.55.171.171,F," 18 at 0 depth lookup:self signed certificate
+
+",F," parsing errors
+parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+65.55.58.201,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+66.135.49.214,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+66.155.11.244,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+66.155.40.249,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+66.155.9.238,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+66.155.9.244,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+66.209.77.199,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+66.211.109.13,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+66.211.169.66,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+66.228.118.53,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+66.244.151.241,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+66.54.56.30,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+66.6.43.20,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+66.77.124.26,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+67.138.108.201,F," 18 at 0 depth lookup:self signed certificate
+
+",F," parsing errors
+parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+67.192.222.18,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+67.196.156.65,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+67.202.94.86,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+67.208.88.196,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+67.212.88.10,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+67.221.174.30,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+67.221.174.31,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+67.221.183.145,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+67.228.47.226,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+67.228.60.226,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+67.228.87.82,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+68.169.198.50,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+68.233.254.129,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+68.233.76.13,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+68.71.212.116,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+68.71.212.186,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+68.71.222.53,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+68.71.245.5,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+68.71.250.25,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+68.71.55.19,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+68.99.123.161,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+69.147.76.173,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+69.164.157.219,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+69.166.132.247,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+69.167.156.26,F," unexpected reason
+
+",F," self-signed or not signed by a trusted CA
+
+",F," not CA
+unknown reason
+
+",F," parsing errors
+
+",1
+69.167.173.81,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+69.17.223.11,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+69.171.233.18,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+69.172.200.174,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+69.172.200.91,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+69.191.252.14,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+69.196.244.96,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+69.31.136.5,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+69.53.236.17,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+69.58.188.34,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+69.64.153.35,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+69.72.225.11,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+69.89.69.101,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+69.89.74.66,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+69.89.74.80,T,None,T,None,T,None,F," parsing errors
+
+",0
+70.103.226.22,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+70.32.120.34,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+70.42.16.130,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+70.42.170.77,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+70.42.185.10,T,None,T,None,T,None,T,None,1
+72.10.35.80,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+72.163.4.161,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+72.172.88.41,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+72.21.194.212,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+72.21.91.19,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+72.21.91.54,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+72.3.218.115,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+72.52.12.246,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+72.52.178.205,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+72.52.178.206,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+72.52.191.14,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+72.52.8.197,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+72.52.91.14,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+74.112.184.73,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+74.113.152.32,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+74.113.188.100,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+74.115.50.109,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+74.117.178.54,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+74.119.98.141,T,None,T,None,T,None,F," parsing errors
+
+",0
+74.122.182.100,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+74.125.129.191,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+74.125.239.102,F," 18 at 0 depth lookup:self signed certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+74.125.239.103,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+74.125.239.113,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+74.125.239.119,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+74.125.239.120,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+74.125.239.127,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+74.125.239.135,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+74.125.239.141,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+74.125.239.143,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+74.125.239.147,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+74.125.239.148,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+74.125.239.151,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+74.125.239.152,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+74.125.239.159,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+74.125.239.32,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+74.125.239.40,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+74.125.239.48,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+74.125.239.55,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+74.125.239.56,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+74.125.239.63,F," unexpected reason
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+74.125.239.96,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+74.125.25.191,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+74.125.28.191,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+74.201.113.118,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+74.208.4.12,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+74.217.81.233,F," unexpected reason
+
+",F," self-signed or not signed by a trusted CA
+
+",F," not CA
+unknown reason
+
+",F," basic constraints
+
+",1
+74.220.195.50,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+74.50.63.27,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+74.63.145.186,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+75.101.139.29,F," unexpected reason
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+75.126.120.200,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+75.126.59.147,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+75.141.46.41,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+75.98.92.205,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+75.98.93.51,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+76.74.254.126,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+76.74.255.117,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+77.238.17.238,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+77.75.76.3,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+77.88.21.11,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+78.140.141.212,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+78.140.143.6,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+78.140.173.146,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+78.140.181.188,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+78.140.183.206,T,None,T,None,T,None,T,None,1
+78.140.184.167,T,None,F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," parsing errors
+
+",0
+78.40.123.120,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+78.47.223.234,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+79.171.26.11,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+8.20.213.76,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+8.25.205.51,F," 18 at 0 depth lookup:self signed certificate
+
+",F," parsing errors
+parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+8.26.65.18,F," 18 at 0 depth lookup:self signed certificate
+
+",F," parsing errors
+parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+80.125.163.172,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+80.190.158.9,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+80.237.201.43,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+80.247.32.206,F," 18 at 0 depth lookup:self signed certificate
+
+",F," parsing errors
+parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+80.72.139.101,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+80.76.156.73,F," 18 at 0 depth lookup:self signed certificate
+
+",F," parsing errors
+parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+80.91.37.133,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+81.171.123.200,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+81.19.70.3,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+81.200.198.6,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+81.252.187.37,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+81.9.34.190,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+82.98.86.183,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+84.2.34.9,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+84.20.200.28,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+85.111.30.111,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+85.17.184.54,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+85.202.242.21,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+85.25.30.170,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",T,None,F," The certificate issuer is unknown
+unknown reason
+
+",F," Auth Key / Subject Key Match
+
+",0
+87.240.131.120,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+87.240.131.99,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+87.242.88.80,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+87.83.27.65,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",T,None,F," The certificate issuer is unknown
+unknown reason
+
+",F," Auth Key / Subject Key Match
+
+",0
+87.98.168.164,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+88.208.24.58,T,None,T,None,T,None,F," parsing errors
+
+",0
+88.212.196.87,F," 18 at 0 depth lookup:self signed certificate
+
+",F," parsing errors
+parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+89.106.28.167,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+89.108.112.70,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+89.167.225.172,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+89.188.112.203,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+89.235.64.67,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+89.238.137.44,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+89.30.105.77,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+91.103.138.2,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+91.121.49.171,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," not CA
+violating constraints
+unknown reason
+
+",F," parsing errors
+
+",1
+91.192.111.99,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+91.198.36.14,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+91.202.63.105,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+91.203.187.14,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," not CA
+violating constraints
+unknown reason
+
+",F," basic constraints
+
+",1
+91.207.59.161,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+91.211.73.6,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+91.211.74.51,T,None,T,None,T,None,T,None,1
+91.211.75.124,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+91.214.237.200,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+91.214.6.117,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+91.220.30.150,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+91.232.231.68,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," Auth Key / Subject Key Match
+
+",1
+91.240.109.42,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+92.45.106.102,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+93.115.82.99,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+93.158.134.11,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+93.171.202.233,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+93.187.65.10,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+93.84.114.78,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+94.100.180.199,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+94.124.200.86,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+94.143.115.209,F," unexpected reason
+
+",F," self-signed or not signed by a trusted CA
+
+",F," not CA
+violating constraints
+unknown reason
+
+",F," basic constraints
+
+",1
+94.182.146.12,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+94.182.146.24,T,None,T,None,T,None,F," parsing errors
+
+",0
+94.199.255.148,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+94.31.0.27,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+95.128.200.219,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+95.131.142.225,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+95.163.127.68,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+95.211.146.73,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+95.86.129.58,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+96.17.109.10,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+96.17.109.17,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+96.17.109.18,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+96.17.109.19,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+96.17.109.25,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+96.17.109.26,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+96.17.109.32,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+96.17.109.34,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+96.17.109.43,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+96.17.109.8,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+96.17.148.105,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+96.17.148.131,T,None,T,None,T,None,T,None,1
+96.17.148.42,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+97.74.104.201,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+97.74.104.208,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+97.74.104.209,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+98.100.226.36,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+98.124.247.46,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+98.124.248.242,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+98.124.248.77,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+98.138.253.109,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+98.175.77.200,T,None,T,None,T,None,T,None,1
+-Trust-nQual-03,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+CEDICOM_Root,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+C_Raíz_Certicámara_S.A,T,None,T,None,T,None,T,None,1
+ddTrust_External_Root,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+ddTrust_Low-Value_Services_Root,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+ddTrust_Public_Services_Root,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+ddTrust_Qualified_Certificates_Root,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+ffirmTrust_Commercial,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+ffirmTrust_Networking,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+ffirmTrust_Premiu,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+ffirmTrust_Premium_ECC,T,None,T,None,T,None,T,None,1
+merica_Online_Root_Certification_Authority_1,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+merica_Online_Root_Certification_Authority_2,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+pplicationCA_-_Japanese_Government,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+utoridad_de_Certificacion_Firmaprofesional_CIF_A62634068,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+Baltimore_CyberTrust_Root,T,None,T,None,T,None,T,None,1
+Buypass_Class_2_CA_1,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," not CA
+violating constraints
+unknown reason
+
+",F," basic constraints
+
+",1
+Buypass_Class_3_CA_1,T,None,T,None,T,None,T,None,1
+CA_Disig,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+CNNIC_ROOT,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+COMODO_Certification_Authority,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+COMODO_ECC_Certification_Authority,T,None,T,None,T,None,T,None,1
+Camerfirma_Chambers_of_Commerce_Root,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+Camerfirma_Global_Chambersign_Root,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+Certigna,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+Certinomis_-_Autorité_Racin,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+Certplus_Class_2_Primary_CA,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+Certum_Root_CA,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+Certum_Trusted_Network_CA,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," not CA
+violating constraints
+unknown reason
+
+",F," basic constraints
+
+",1
+Chambers_of_Commerce_Root_-_2008,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+ComSign_CA,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+ComSign_Secured_CA,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+Comodo_AAA_Services_root,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+Comodo_Secure_Services_root,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+Comodo_Trusted_Services_root,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+Cybertrust_Global_Root,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+DST_ACES_CA_X6,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+DST_Root_CA_X3,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+Deutsche_Telekom_Root_CA_2,F," 18 at 0 depth lookup:self signed certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+DigiCert_Assured_ID_Root_CA,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+DigiCert_Global_Root_CA,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+DigiCert_High_Assurance_EV_Root_CA,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+Digital_Signature_Trust_Co._Global_CA_1,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+Digital_Signature_Trust_Co._Global_CA_3,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+-Guven_Kok_Elektronik_Sertifika_Hizmet_Saglayicisi,T,None,T,None,T,None,T,None,1
+BG_Elektronik_Sertifika_Hizmet_Sağlayıcısı,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," not CA
+violating constraints
+unknown reason
+
+",F," basic constraints
+
+",1
+ntrust.net_Premium_2048_Secure_Server_CA,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+ntrust.net_Secure_Server_CA,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+ntrust_Root_Certification_Authority,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+quifax_Secure_CA,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+quifax_Secure_Global_eBusiness_CA,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+quifax_Secure_eBusiness_CA_1,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+quifax_Secure_eBusiness_CA_2,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+irmaprofesional_Root_CA,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+_CyberTrust_Global_Root,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+eoTrust_Global_CA,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+eoTrust_Global_CA_2,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," parsing errors
+
+",1
+eoTrust_Primary_Certification_Authority,F," 18 at 0 depth lookup:self signed certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+eoTrust_Primary_Certification_Authority_-_G2,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+eoTrust_Primary_Certification_Authority_-_G3,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," not CA
+violating constraints
+unknown reason
+
+",F," basic constraints
+
+",1
+eoTrust_Universal_CA,F," 18 at 0 depth lookup:self signed certificate
+
+",F," parsing errors
+parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+eoTrust_Universal_CA_2,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+lobalSign_Root_CA,T,None,T,None,T,None,T,None,1
+lobalSign_Root_CA_-_R2,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+lobalSign_Root_CA_-_R3,F," 18 at 0 depth lookup:self signed certificate
+
+",F," parsing errors
+parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+lobal_Chambersign_Root_-_2008,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+o_Daddy_Class_2_CA,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+o_Daddy_Root_Certificate_Authority_-_G2,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+Hongkong_Post_Root_CA_1,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+C_A,F," 18 at 0 depth lookup:self signed certificate
+
+",F," parsing errors
+parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+zenpe.co,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+Juur-SK,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+Microsec_e-Szigno_Root_CA,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+Microsec_e-Szigno_Root_CA_2009,T,None,T,None,T,None,F," parsing errors
+
+",0
+etLock_Arany_=Class_Gold=_Főtanúsítvány,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+etLock_Business_=Class_B=_Root,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+etLock_Express_=Class_C=_Root,T,None,T,None,T,None,T,None,1
+etLock_Notary_=Class_A=_Root,T,None,T,None,T,None,T,None,1
+etLock_Qualified_=Class_QA=_Root,T,None,F," parsing errors
+parsing errors
+
+",T,None,T,None,0
+etwork_Solutions_Certificate_Authority,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+OISTE_WISeKey_Global_Root_GA_CA,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+QuoVadis_Root_CA,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+QuoVadis_Root_CA_2,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+QuoVadis_Root_CA_3,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+_Root_Certificate_1,T,None,F," parsing errors
+parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",0
+_Security_2048_v3,T,None,T,None,T,None,F," parsing errors
+
+",0
+oot_CA_Generalitat_Valenciana,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+-TRUST_Authentication_and_Encryption_Root_CA_2005_PN,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+ecureSign_RootCA11,T,None,T,None,T,None,T,None,1
+ecureTrust_CA,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+ecure_Global_CA,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+ecurity_Communication_EV_RootCA1,F," 18 at 0 depth lookup:self signed certificate
+
+",F," parsing errors
+parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+ecurity_Communication_Root_CA,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," parsing errors
+
+",1
+onera_Class_1_Root_CA,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+onera_Class_2_Root_CA,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+taat_der_Nederlanden_Root_CA,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+taat_der_Nederlanden_Root_CA_-_G2,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+tarfield_Class_2_CA,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+tarfield_Root_Certificate_Authority_-_G2,T,None,T,None,T,None,T,None,1
+tarfield_Services_Root_Certificate_Authority_-_G2,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+tartCom_Certification_Authority,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+wissSign_Gold_CA_-_G2,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+wissSign_Platinum_CA_-_G2,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+wissSign_Silver_CA_-_G2,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+wisscom_Root_CA_1,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+C_TrustCenter_Class_2_CA_II,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+C_TrustCenter_Class_3_CA_II,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+C_TrustCenter_Universal_CA_I,F," unexpected reason
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," Auth Key / Subject Key Match
+
+",1
+C_TrustCenter_Universal_CA_III,F," 18 at 0 depth lookup:self signed certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+C_TrustCenter__Germany__Class_2_CA,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+C_TrustCenter__Germany__Class_3_CA,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+DC_Internet_Root_CA,T,None,T,None,T,None,F," parsing errors
+
+",0
+DC_OCES_Root_CA,F," 18 at 0 depth lookup:self signed certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+URKTRUST_Certificate_Services_Provider_Root_1,T,None,T,None,T,None,T,None,1
+URKTRUST_Certificate_Services_Provider_Root_2,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+WCA_Root_Certification_Authority,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+aiwan_GRCA,F," 18 at 0 depth lookup:self signed certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+hawte_Premium_Server_CA,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+hawte_Server_CA,T,None,T,None,T,None,F," parsing errors
+
+",0
+ÜBİTAK_UEKAE_Kök_Sertifika_Hizmet_Sağlayıcısı_-_Sürüm_3,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+UTN_DATACorp_SGC_Root_CA,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+UTN_USERFirst_Email_Root_CA,F," 18 at 0 depth lookup:self signed certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+UTN_USERFirst_Hardware_Root_CA,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+UbuntuOne-Go_Daddy_CA,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+UbuntuOne-Go_Daddy_Class_2_CA,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+aliCert_Class_1_VA,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," parsing errors
+
+",1
+aliCert_Class_2_VA,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," parsing errors
+
+",1
+eriSign_Class_3_Public_Primary_Certification_Authority_-_G4,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+eriSign_Class_3_Public_Primary_Certification_Authority_-_G5,T,None,F," parsing errors
+parsing errors
+
+",T,None,F," Auth Key / Subject Key Match
+
+",0
+eriSign_Universal_Root_Certification_Authority,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+erisign_Class_1_Public_Primary_Certification_Authority,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," parsing errors
+
+",1
+erisign_Class_1_Public_Primary_Certification_Authority_-_G2,T,None,T,None,T,None,F," parsing errors
+
+",0
+erisign_Class_1_Public_Primary_Certification_Authority_-_G3,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+erisign_Class_2_Public_Primary_Certification_Authority,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," parsing errors
+
+",1
+erisign_Class_2_Public_Primary_Certification_Authority_-_G2,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+erisign_Class_2_Public_Primary_Certification_Authority_-_G3,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+erisign_Class_3_Public_Primary_Certification_Authority,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," parsing errors
+
+",F," parsing errors
+
+",1
+erisign_Class_3_Public_Primary_Certification_Authority_-_G2,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," parsing errors
+
+",1
+erisign_Class_3_Public_Primary_Certification_Authority_-_G3,T,None,T,None,T,None,F," parsing errors
+
+",0
+erisign_Class_4_Public_Primary_Certification_Authority_-_G2,F," unexpected reason
+
+",F," self-signed or not signed by a trusted CA
+
+",F," not CA
+unknown reason
+
+",F," parsing errors
+
+",1
+erisign_Class_4_Public_Primary_Certification_Authority_-_G3,T,None,T,None,T,None,F," parsing errors
+
+",0
+isa_eCommerce_Root,F," 18 at 0 depth lookup:self signed certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+WellsSecure_Public_Root_Certificate_Authority,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+Wells_Fargo_Root_CA,T,None,T,None,T,None,T,None,1
+XRamp_Global_CA_Root,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",T,None,F," The certificate issuer is unknown
+unknown reason
+
+",F," Auth Key / Subject Key Match
+
+",0
+ca,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," parsing errors
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+cacert.org,F," unexpected reason
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+certSIGN_ROOT_CA,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+ePKI_Root_Certification_Authority,F," 18 at 0 depth lookup:self signed certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," parsing errors
+
+",1
+spi-ca-2003,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," basic constraints
+
+",1
+spi-cacert-2008,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",T,None,T,None,F," Auth Key / Subject Key Match
+
+",0
+ssl-cert-snakeoil,F," 20 at 0 depth lookup: unable to get local issuer certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," not CA
+unknown reason
+
+",F," parsing errors
+
+",1
+thawte_Primary_Root_CA,F," 18 at 0 depth lookup:self signed certificate
+
+",F," self-signed or not signed by a trusted CA
+
+",F," The certificate issuer is unknown
+unknown reason
+
+",F," distinguished name match
+
+",1
+thawte_Primary_Root_CA_-_G2,T,None,T,None,T,None,T,None,1
+thawte_Primary_Root_CA_-_G3,T,None,T,None,T,None,F," Auth Key / Subject Key Match
+
+",0

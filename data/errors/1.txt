@@ -1,0 +1,13 @@
+CC1：证书链中包含v1证书 T T T F （matrixssl 拒绝：FAIL parse /home/1.pem -10）
+CC2：证书链中empty name 相连接 T F F F
+CC3：叶子证书是self-issued F T T T
+          中间证书是self-issued T F F F 
+CC4:  AKI 和SKI extension不匹配 F T F F 
+CV1：CA 为true，keyusage没有正确写明 T T T F 
+CV2：当有两个重复的extension时候，有些不会拒绝，选择不同的extension进行处理
+         T/F T/F F T/F 
+CV3： 签名算法较弱时 T T F T 
+CP1：V1证书有扩展 T F F F
+CP2：重复扩展 T F T T
+CP3：可以识别的critical的扩展不一致 
+CP4:  当扩展的值有错误时 
