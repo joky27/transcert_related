@@ -107,7 +107,8 @@ def result_merge(s_result_folder,result_path):
     result['cons']=result.apply(lambda x:1 if x.openssl_acc == x.polarssl_acc and x.openssl_acc ==x.gnutls_acc else 0,axis=1)
     result.to_csv(os.path.join(result_path, 'result.csv'), index=None, encoding='utf-8')
 
-
+'''
+#print the modification history of filelog
 def his_print(filename):
     fileindex = int(filename.split('.')[0])
     filelog = []
@@ -120,7 +121,7 @@ def his_print(filename):
     for i in range(len(filelog)):
         print(filelog[i])
 
-
+'''
 
 if __name__=='__main__':
     #merge difference_testing results

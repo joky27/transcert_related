@@ -124,12 +124,12 @@ def generate_cert(certificates, pkey, signing_key, issuer, max_extensions, \
     # overwrite the timestamps if asked by the user
     if random.random() < invalid_ts_probability:
         if random.random() < 0.5:
-            notvalidyet = b(datetime.now() + timedelta(days=1). \
-                            strftime("%Y%m%d%H%M%SZ"))
+            notvalidyet = datetime.now() + timedelta(days=1). \
+                            strftime("%Y%m%d%H%M%SZ")
             cert.set_notBefore(notvalidyet)
         else:
-            expired = b(datetime.now() - timedelta(days=1). \
-                        strftime("%Y%m%d%H%M%SZ"))
+            expired = datetime.now() - timedelta(days=1). \
+                        strftime("%Y%m%d%H%M%SZ")
             cert.set_notBefore(expired)
 
             # handle the extensions
@@ -175,7 +175,7 @@ def update_certs(filefolder, filename,root_pem_folder,leaf_pem_folder,target_nam
     with open(conf.ca_cert_path, 'rt') as ca_key_file:
         ca_private_key = crypto.load_privatekey(crypto.FILETYPE_PEM, \
                                                 ca_key_file.read())
-    fconf = franken_conf_parse.parse_config(conf.configfile)
+    fconf = franken_conf_parse.parse_config()
 
     # (2) generate a new seed file
     if update_mode == 1:

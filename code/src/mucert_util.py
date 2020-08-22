@@ -26,7 +26,7 @@ franken_names = []
 
 def gen_pkeys(): #frankencert
     pkeys = []
-    fconf = franken_conf_parse.parse_config(conf.configfile)
+    fconf = franken_conf_parse.parse_config()
     public_key_len = fconf["public_key_len"]    
     max_depth = 100
     for i in range(max_depth):
@@ -128,7 +128,7 @@ def recycle_cert(inpath, outpath, cafile, fix_timestamps): #frankencert
         buf = f.read()
         cakey = crypto.load_privatekey(crypto.FILETYPE_PEM, buf)
     
-    print len(incerts)
+    #print(len(incerts))
    
     pkeys = [] 
     for i in range(len(incerts)):
@@ -139,9 +139,9 @@ def recycle_cert(inpath, outpath, cafile, fix_timestamps): #frankencert
     for i in range(len(incerts)):
         incerts[i].set_pubkey(pkeys[i])
         if (fix_timestamps):
-            now = b(datetime.now().strftime("%Y%m%d%H%M%SZ"))
-            expire = b((datetime.now() + timedelta(days=100))\
-                   .strftime("%Y%m%d%H%M%SZ"))
+            now = datetime.now().strftime("%Y%m%d%H%M%SZ")
+            expire = (datetime.now() + timedelta(days=100))\
+                   .strftime("%Y%m%d%H%M%SZ")
             incerts[i].set_notBefore(now)
             incerts[i].set_notAfter(expire)
    
@@ -178,8 +178,8 @@ def print_cert(inpath): #frankencert
             output += p.communicate(input=buf[index:])[0]
             index = index + len(pattern)
             i += 1
-    print output.find("Certificate:")
-    print output 
+    #print (output.find("Certificate:"))
+    #print (output )
 
 
 def load_json(filepath):#,filetype):

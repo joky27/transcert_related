@@ -3,7 +3,7 @@
 #See https://github.com/sumanj/frankencert.
 
 import ConfigParser
-def parse_config(configfile):
+def parse_config():
     fconfig = {}
     hash_for_sign_list = ['sha256','sha384','sha512']
     parser = ConfigParser.SafeConfigParser(defaults={'max_extensions':'20', \

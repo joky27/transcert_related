@@ -48,7 +48,7 @@ def process_openssl (filename):
             if (not obtain_message):
                 result = result+ '-----reject for unexpected reason'
                         
-            print result
+            print (result)
                         
             index1 = start + 1
             start = buf.find('-----START VERIFYING', index1)
@@ -89,7 +89,7 @@ def process_polarssl (filename):
             if (not obtain_message):
                 result = result+ '-----reject for unexpected reason'
                         
-            print result
+            print (result)
                         
             index1 = start + 1
             start = buf.find('-----START VERIFYING', index1)
@@ -135,7 +135,7 @@ def process_gnutls (filename):
             if (not obtain_message):
                 result = result+ '-----reject for unexpected reason'
                         
-            print result
+            print (result)
                         
             index1 = start + 1
             start = buf.find('-----START VERIFYING', index1)

@@ -5,6 +5,7 @@ import shutil
 from OpenSSL import crypto
 from datetime import datetime,timedelta
 import conf
+import sys
 
 
 
@@ -71,7 +72,7 @@ def seed_func_stat_init(filefolder):
             cov_stat[func_code]['fileids'] =list( [fileid])
     mucert_util.dump_json(file_cov, conf.file_cov_log)
     mucert_util.dump_json(cov_stat, conf.cov_stat_log)
-    mucert_util.dump_json(func_cov_code,conf.func_encoder_log)
+    #mucert_util.dump_json(func_cov_code,conf.func_encoder_log)
 
 
 def func_seed_stat(file_cov):
