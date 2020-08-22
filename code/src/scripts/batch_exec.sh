@@ -1,15 +1,15 @@
 #! /bin/bash
 
-openssl_instrumented_src='/home/public/openssl-1.1.1c'
-openssl_instrumented_bin='/home/public/ssl-1.1.1c/bin/openssl'
-HOME_DIR='/home/transcert/'
-#PEM_DIR=$HOME_DIR"certs/"
-file=$HOME_DIR"seeds/"$1
+openssl_instrumented_src="..."
+openssl_instrumented_bin="..."
+HOME_DIR="..."
+SEED_FILEFOLDER="..." #conf.seed_filefolder
+file=$SEED_FILEFOLDER$1 #input argument is filename of testcase (collect cov)
 filename=$1
-CA_FILE=$HOME_DIR"rootCA.pem"
-COV_INFO_DIR=$HOME_DIR'utils/cov/'
-OPENSSL_ROOT_DIR=$HOME_DIR'root/'
-OPENSSL_LEAF_DIR=$HOME_DIR'leaf/'
+CA_FILE=$HOME_DIR"..." #rootca name
+COV_INFO_DIR=$HOME_DIR"..." #conf.cov_results_path
+OPENSSL_ROOT_DIR=$HOME_DIR".."#conf.openssl_root
+OPENSSL_LEAF_DIR=$HOME_DIR"..."#conf.openssl_leaf
 
 
 lcov -q  --directory $openssl_instrumented_src --zerocounters #--rc lcov_branch_coverage=1

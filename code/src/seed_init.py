@@ -90,25 +90,9 @@ def func_seed_stat(file_cov):
     mucert_util.dump_json(cov_stat, '/home/juliazhu/Documents/ssl_on_the_fly/stats/line/cov_stat_line.json')
 
 
-
-cov_folder = '/home/juliazhu/transcert/cov/'
-seed_stat_init (cov_folder)
-#file_cov = mucert_util.load_json('/home/juliazhu/Documents/ssl_on_the_fly/stats/line/file_cov_line.json')
-#func_seed_stat(file_cov)
-
-#used for transform root and leaf pem for openssl
-#def cert_split(cert_path,CA_path):
-
-#folder = '/home/corpus/origin'
-#ca_cert_path = '/home/rootCA_key_cert.pem'
-#target_folder='/home/corpus/new'
-#corpus_unexpire_resign(folder,target_folder)
-#seed_filefolder = '/home/juliazhu/Documents/ssl_experiments/new_seed'
-#target_filefolder= '/home/juliazhu/Documents/ssl_experiments/new_seeds'
-#result_content = pd.read_csv('/home/juliazhu/Documents/ssl_experiments/result.csv')
-#seed_select(seed_filefolder,result_content,target_filefolder)
-#filefolder = '/home/juliazhu/Documents/ssl_experiments/cov/results'
-#seed_func_stat_init(filefolder)
+if __name__ == '__main__':
+     cov_folder = sys.argv[1] ##cov_folder
+     seed_stat_init (cov_folder)
 
 
 

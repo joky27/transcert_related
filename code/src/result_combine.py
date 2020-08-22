@@ -120,51 +120,12 @@ def his_print(filename):
     for i in range(len(filelog)):
         print(filelog[i])
 
-#find the source and classify the unconsicency type:
-
-
-def result_stat(filepath):
-    content = pd.read_csv(filepath)
-    cons_0_count = 0
-    for row in content.itertuples():
-        att_cons= getattr(row,'cons')
-        CA = getattr(row,'CA')
-        if att_cons==0:
-            origin_path = os.path.join('/home/certs/new_func',str(CA)+'.pem')
-            new_path = os.path.join('/home/analysis/new_func',str(CA)+'.pem')
-            shutil.copy(origin_path,new_path)
-
-def result_unconsis_classify(filepath):
-    content = pd.read_csv(filepath)
-    cons_0_count = 0
-    for row in content.itertuples():
-        att_openssl = getattr(row, 'openssl_acc')
-        att_polarssl = getattr(row, 'polarssl_acc')
-        att_gnutls = getattr(row, 'gnutls_acc')
-        CA = getattr(row, 'CA')
-        origin_path = os.path.join('/home/analysis/new_func', str(CA) + '.pem')
-        if att_openssl == 'T' and att_polarssl =='T' and att_gnutls == 'F':
-            new_path = os.path.join('/home/analysis/new_func/uncons0', str(CA) + '.pem')
-            shutil.copy(origin_path, new_path)
-        elif att_openssl == 'F' and att_polarssl == 'T' and att_gnutls == 'T':
-            new_path = os.path.join('/home/analysis/new_func/uncons2', str(CA) + '.pem')
-            shutil.copy(origin_path, new_path)
-        elif att_openssl == 'T' and att_polarssl == 'F' and att_gnutls == 'F':
-            new_path = os.path.join('/home/analysis/new_func/uncons3', str(CA) + '.pem')
-            shutil.copy(origin_path, new_path)
-        elif att_openssl == 'F' and att_polarssl == 'T' and att_gnutls == 'F':
-            new_path = os.path.join('/home/analysis/new_func/uncons4', str(CA) + '.pem')
-            shutil.copy(origin_path, new_path)
-        elif att_openssl == 'F' and att_polarssl == 'F' and att_gnutls == 'T':
-            new_path = os.path.join('/home/analysis/new_func/uncons5', str(CA) + '.pem')
-            shutil.copy(origin_path, new_path)
-
 
 
 if __name__=='__main__':
     #merge difference_testing results
     s_result_folder = sys.argv[1]
-    result_path = sys.argv[2]
+    result_path = sys.argv[2] # the file path for the simplified result path 
     result_merge(s_result_folder,result_path)
 
     #filepath = sys.argv[1]

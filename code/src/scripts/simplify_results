@@ -1,7 +1,7 @@
 #! /bin/bash
 
 cur_dir=$1
-script='/home/juliazhu/Documents/ssl_on_the_fly/src/simplify_results.py'
+script='..../src/simplify_results.py' #filepath of simplify_results
 type='openssl'
 rm $cur_dir'/s_'$type'.txt'
 python $script 1 $cur_dir$type'.txt' >>$cur_dir'/s_'$type'.txt'

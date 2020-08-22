@@ -184,9 +184,6 @@ def update_certs(filefolder, filename,root_pem_folder,leaf_pem_folder,target_nam
         (updatecerts, operation) = update_cert(chain, pick_cert, certificates, ca_cert, ca_private_key, fconf, None)
     if updatecerts is None:
         return
-    #mucert_util.dump_cert(updatecerts, target_filepath)
-    #cov_cert_filepath = os.path.join('/home/juliazhu/Documents/ssl_on_the_fly/cov_certs/certs',target_name)
-    #mucert_util.dump_cert(updatecerts, cov_cert_filepath)
     certs = updatecerts
     if len(certs) >= 2:
         leaf_pem = []
@@ -669,8 +666,6 @@ def update_cert(chain, pick_cert, certificates, ca_cert, ca_key, fconfig, \
 
 def node_select(cov_stat):
     #according to the potential select the node to be mutated
-    #cov_stat = mucert_util.load_json(conf.cov_stat_log)
-    #nodes = cov_stat.keys()
     p_dict = {}
     for node in cov_stat.keys():
         transfer_num = len(cov_stat[node]['transfer_list'].keys())
@@ -754,7 +749,7 @@ if __name__ == '__main__':
     mucert_util.pkeys = mucert_util.gen_pkeys()
     iteration = int(sys.argv[1])
     mode = int(sys.argv[2]) #used to choose strategy 1 or not
-    update_mode = int(sys.argv[3]) #used to choose whether use extension_centric modification
+    update_mode = int(sys.argv[3]) #used to choose whether use extension_centric modification 1 or 0 
     nums = 0
     index = 0
     #print(index
@@ -777,9 +772,9 @@ if __name__ == '__main__':
             if (os.path.exists(os.path.join(conf.seed_filefolder,str(target_fileid)+'.pem'))):
                 os.system("sh scripts/batch_exec.sh "+str(target_fileid)+'.pem') #collect coverage
                 cov_restat(fileid,target_fileid,cov_stat)
-                if mode == 1:
-                     on_the_fly_testing(target_fileid)
-       # nums = len(os.listdir(conf.seed_filefolder))+ len(os.listdir(conf.unconsis_seed_path))
+                if mode == 1: 
+                     on_the_fly_testing(target_fileid) #conduct on-the-flying test
+      
 
 
 
